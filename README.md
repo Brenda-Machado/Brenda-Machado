@@ -33,5 +33,18 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
 
 <details>
   <summary>📃 Educatin</summary>
+  
+- 📖 **Computation Science**\
+📆 2021 - \
+📍 **Federal University of Santa Catarina** - SC, Brazil.
+  
+- 👨‍💻 **PET Computação UFSC**\
+📆 2021 - \
+
+- 👨‍💻 **Adaptive Robotics Lab**\
+📆 2021 - \
+  -> Machine Learning;
+  -> Adaptive Robotics;
+  -> Evolution Strategies.
 
 
