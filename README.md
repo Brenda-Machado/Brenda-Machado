@@ -1,5 +1,6 @@
-
-## Hi 👋 I am Brenda!
+<h1 align='center'>
+  Hi 👋 I am Brenda!
+</h1>
 
 Undergraduate student in Computer Science at the Federal University of Santa Catarina, SC, Brazil. Currently researching Adaptive Robotics and Evolution Strategies at the Adaptive Robotics Lab.
 
