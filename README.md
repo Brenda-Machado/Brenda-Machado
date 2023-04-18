@@ -1,3 +1,5 @@
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
 ## Hi 👋 I am Brenda!
 
 Undergraduate student in Computer Science at the Federal University of Santa Catarina, SC, Brazil. Currently researching Adaptive Robotics and Evolution Strategies at the Adaptive Robotics Lab.
