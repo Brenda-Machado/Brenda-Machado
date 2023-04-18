@@ -3,7 +3,6 @@
 Undergraduate student in Computer Science at the Federal University of Santa Catarina, SC, Brazil. Currently researching Adaptive Robotics and Evolution Strategies at the Adaptive Robotics Lab.
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brenda-silva-machado-93bbab244/) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenda-Machado)](https://github.com/anuraghazra/github-readme-stats)
