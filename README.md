@@ -8,4 +8,4 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenda-Machado&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenda-Machado)](https://github.com/anuraghazra/github-readme-stats)
+
