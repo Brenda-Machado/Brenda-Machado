@@ -30,10 +30,6 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
   <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </p>
   
-  <p align='center'>
-  <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenda-Machado&layout=compact&theme=transparent"/>
-  </p>
-  
 </p>
 
 
