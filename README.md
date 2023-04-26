@@ -31,7 +31,7 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
   </p>
   
   <p align='center'>
-  <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenda-Machado&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenda-Machado&layout=compact&theme=transparent"/>
   </p>
   
 </p>
