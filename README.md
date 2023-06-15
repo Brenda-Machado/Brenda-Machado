@@ -35,7 +35,7 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
 
 
 <details>
-  <summary>📃 Educatin</summary>
+  <summary>📃 Education</summary>
   
 - 📖 **Computation Science**\
 📆 2021 - \
