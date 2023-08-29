@@ -37,7 +37,7 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
 <details>
   <summary>📃 Education</summary>
   
-- 📖 **Computation Science**\
+- 📖 **Computer Science**\
 📆 2021 - \
 📍 **Federal University of Santa Catarina** - SC, Brazil.
   
