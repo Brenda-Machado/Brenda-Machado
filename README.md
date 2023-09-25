@@ -4,7 +4,7 @@
 
 <p align='center'>
   
-Undergraduate student in Computer Science at the Federal University of Santa Catarina, SC, Brazil. Currently researching Adaptive Robotics and Evolution Strategies at the Adaptive Robotics Lab.
+Undergraduate student in Computer Science at the Federal University of Santa Catarina, SC, Brazil. Currently researching in the area of Adaptive Robotics and Evolution Strategies at the Systems and Applications Integration Laboratory (LISA), in the Adaptive Robotics project.
   
 </p>
 
@@ -49,5 +49,18 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
   -> Machine Learning
   -> Adaptive Robotics
   -> Evolution Strategies.
+
+<details>
+  <summary>📃 Resume</summary>
+  
+- Publication at the internationally renowned event in the area of Evolutionary Computing, the Congress of Genetic and Evolutionary Computing (GECCO). The publication consists of an article accepted at the GECCO'23 Student Workshop, which took place in Lisbon, Portugal.
+
+- Scholarship holder at PET Computação UFSC since 2021, where I worked mainly in the area of supporting social media and preparing promotional materials, in addition to participating and supporting academic events, such as the Simpósio em Sistemas Computacionais de Alto Desempenho (Symposium on High Performance Computing Systems, WSCAD') 2022, Florianópolis, and the Workshop on Quantum Computing 2023, Florianópolis. In addition, I worked on organizing events, such as the Semana Acadêmica de Computação e Sistemas da Informação (Academic Week of Computing and Information Systems, SECCOM) 2022 and 2023.
+
+- In 2022, I won a scholarship to participate in an international conference in the area of Computer Science of my choice, which was GECCO'22, which took place in Boston, USA.
+
+- Interested in several areas of knowledge, mainly in integrating technology and society. Within computing, my topics of interest include Evolutionary Computing, Machine Learning, Artificial Intelligence, Algorithm Development, Operating Systems, Game Development, Biotechnology, Design, Systems Development, etc.
+
+  
 
 
