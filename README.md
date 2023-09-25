@@ -50,6 +50,8 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
   -> Adaptive Robotics
   -> Evolution Strategies.
 
+</p>
+
 <details>
   <summary>📃 Resume</summary>
   
