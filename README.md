@@ -22,7 +22,7 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
 </p>
 
 <p align='center'>
-  
+  <p align='center'>
   💻 Learning & Developing with <br/><br/>
   <p align='center'>
   <img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
