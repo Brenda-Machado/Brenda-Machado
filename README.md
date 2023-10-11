@@ -13,10 +13,6 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
   <a href="https://www.linkedin.com/in/brenda-silva-machado-93bbab244/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="http://lattes.cnpq.br/3946140861830751">
-    <img src="https://img.shields.io/badge/Lattes-blue/style=for-the-badge" />
-  </a>&nbsp;&nbsp;
-  
   
 </p>
 
@@ -56,6 +52,10 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
 
 <details>
   <summary>📃 Resume</summary>
+
+<a href="http://lattes.cnpq.br/3946140861830751">
+    <img src="https://img.shields.io/badge/Lattes-blue" />
+</a>&nbsp;&nbsp;
   
 - Publication at the internationally renowned event in the area of Evolutionary Computing, the Congress of Genetic and Evolutionary Computation (GECCO). The publication consists of an article accepted at the GECCO'23 Student Workshop, which took place in Lisbon, Portugal;
 
