@@ -63,6 +63,8 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
 
 - Interested in several areas of knowledge, mainly in integrating technology and society. Within computing, my topics of interest include Evolutionary Computation, Machine Learning, Artificial Intelligence, Algorithm Development, Operating Systems, Game Development, Biotechnology, Design, Systems Development, etc.
 
+</p>
+
   
 
 
