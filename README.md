@@ -14,7 +14,7 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="http://lattes.cnpq.br/3946140861830751">
-    <img src="https://img.shields.io/badge/style=for-the-badge&badgeContent=Lattes&color=blue" />
+    <img src="https://img.shields.io/badge/badgeContent=Lattes&color=blue&style=for-the-badge&" />
   </a>&nbsp;&nbsp;
   
   
