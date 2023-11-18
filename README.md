@@ -42,7 +42,7 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
 - 👨‍💻 **PET Computação UFSC**\
 📆 2021 - \
 
-- 👨‍💻 **Adaptive Robotics Lab**\
+- 👨‍💻 **Adaptive Robotics project**\
 📆 2021 - \
   -> Machine Learning
   -> Adaptive Robotics
