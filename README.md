@@ -48,6 +48,12 @@ Undergraduate student in Computer Science at the Federal University of Santa Cat
   -> Adaptive Robotics
   -> Evolution Strategies.
 
+- 👨‍💻 **Behavior Cloning and Autonomous Cars**\
+📆 2024 - \
+  -> Machine Learning
+  -> Behavior Cloning
+  -> CARLA simulator.
+
 </p>
 
 <details>
