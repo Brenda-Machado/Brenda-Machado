@@ -1,78 +1,96 @@
-<h1 align='center'>
+<h1 align="center">
   Hi 👋 I am Brenda!
 </h1>
 
-<p align='center'>
-  
-Undergraduate student in Computer Science at the Federal University of Santa Catarina, SC, Brazil. Currently researching in the area of Adaptive Robotics and Evolution Strategies at the Systems and Applications Integration Laboratory (LISA), in the Adaptive Robotics project.
-  
+<p align="center">
+  Undergraduate student in Computer Science at the Federal University of Santa Catarina (<a href="https://ufsc.br/" target="_blank" rel="noopener noreferrer">UFSC</a>), SC, Brazil. Currently researching Adaptive Robotics and Evolution Strategies at the Systems and Applications Integration Laboratory (LISA), as part of the Adaptive Robotics project.
 </p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/brenda-silva-machado-93bbab244/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/brenda-silva-machado-93bbab244/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+      style="height: 30px; width: 100px; object-fit: contain;"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://lattes.cnpq.br/3946140861830751" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge" 
+      alt="Lattes CV" 
+      style="height: 30px; width: 100px; object-fit: contain;"
+    />
+  </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brenda-Machado&show_icons=true&count_private=true&theme=transparent" width="350"></a>
-  
+<p align="center">
+  <a href="https://github.com/Brenda-Machado" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=Brenda-Machado&show_icons=true&count_private=true&theme=transparent" width="350" alt="GitHub Stats" />
+  </a>
 </p>
 
-<p align='center'>
-  <p align='center'>
-  💻 Learning & Developing with <br/><br/>
-  <p align='center'>
-  <img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </p>
-  
+<p align="center">
+  💻 Learning & Developing with
 </p>
 
-<p align='center'>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
 
-- 📖 **Computer Science**\
-📆 2021 - \
-📍 **Federal University of Santa Catarina** - SC, Brazil.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenda-Machado&layout=compact&theme=transparent" width="300" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <strong>Education & Experience</strong><br/><br/>
   
-- 👨‍💻 **PET Computação UFSC**\
-📆 2021 - \
-
-- 👨‍💻 **Adaptive Robotics project**\
-📆 2021 - \
-  -> Machine Learning
-  -> Adaptive Robotics
-  -> Evolution Strategies.
-
-- 👨‍💻 **Behavior Cloning and Autonomous Cars**\
-📆 2024 - \
-  -> Machine Learning
-  -> Behavior Cloning
-  -> CARLA simulator.
-
+  - 📖 <strong>Computer Science</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;2021 – 2026<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Federal University of Santa Catarina (UFSC)</em>, SC, Brazil<br/><br/>
+  
+  - 👨‍💻 <strong>PET Computação/Informática UFSC</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;2021 – 2026<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Programming, software tools, and projects<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Educational support for undergraduate studies<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Teamwork and event organization<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Research and scientific initiation<br/><br/>
+  
+  - 👨‍💻 <strong>Adaptive Robotics project</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;2021 – 2026<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Adaptive Robotics<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Evolution Strategies<br/><br/>
+  
+  - 👨‍💻 <strong>Behavior Cloning and Autonomous Cars</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;2024 – 2025<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Deep Learning<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Behavior Cloning<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;CARLA simulator
 </p>
 
 <details>
   <summary>📃 Resume</summary>
 
-<a href="http://lattes.cnpq.br/3946140861830751">
-    <img src="https://img.shields.io/badge/Lattes-blue" />
-</a>&nbsp;&nbsp;
-  
-- Publication at the internationally renowned event in the area of Evolutionary Computing, the Congress of Genetic and Evolutionary Computation (GECCO). The publication consists of an article accepted at the GECCO'23 Student Workshop, which took place in Lisbon, Portugal;
+  <ul>
+    <li>
+      Publication at the internationally renowned Congress of Genetic and Evolutionary Computation (GECCO). Article accepted at the GECCO'23 Student Workshop in Lisbon, Portugal.
+    </li>
+    <li>
+      Scholarship holder at PET Computação UFSC since 2021, supporting social media, promotional materials, academic events (e.g., WSCAD'22, SBBD'24), and organizing the SECCOM Academic Week (2022–2025).
+    </li>
+    <li>
+      Awarded a scholarship to attend GECCO'22 in Boston, USA.
+    </li>
+    <li>
+      PIBIC Scholarship holder (2024–2025) researching Imitation Learning, Behavior Cloning, and Deep Learning with autonomous driving simulators/environments like CARLA and CarRacingV0.
+    </li>
+    <li>
+      Interested in integrating technology and society, with a focus on Evolutionary Computation, Machine Learning, AI, Algorithm Development, Operating Systems, Game Development, Biotechnology, Design, and Systems Development.
+    </li>
+  </ul>
 
-- Scholarship holder at PET Computação UFSC since 2021, where I worked mainly in the area of supporting social media and preparing promotional materials, in addition to participating and supporting academic events, such as the Simpósio em Sistemas Computacionais de Alto Desempenho (Symposium on High Performance Computing Systems, WSCAD') 2022, Florianópolis, and the Workshop on Quantum Computing 2023, Florianópolis. In addition, I worked on organizing events, such as the Semana Acadêmica de Computação e Sistemas da Informação (Academic Week of Computing and Information Systems, SECCOM) 2022 and 2023;
-
-- In 2022, I won a scholarship to participate in an international conference in the area of Computer Science of my choice, which was GECCO'22, Boston, USA;
-
-- Interested in several areas of knowledge, mainly in integrating technology and society. Within computing, my topics of interest include Evolutionary Computation, Machine Learning, Artificial Intelligence, Algorithm Development, Operating Systems, Game Development, Biotechnology, Design, Systems Development, etc.
-
-</p>
-
-  
-
-
+</details>
