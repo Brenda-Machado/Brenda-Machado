@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋 I am Brenda!
+  Hi 👋 I am [Brenda](https://brenda-machado.github.io/)!
 </h1>
 
 <p align="center">
@@ -19,6 +19,14 @@
     <img 
       src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge" 
       alt="Lattes CV" 
+      style="height: 30px; width: 100px; object-fit: contain;"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://brenda-machado.github.io/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Website-blue?style=for-the-badge" 
+      alt="Website CV" 
       style="height: 30px; width: 100px; object-fit: contain;"
     />
   </a>
