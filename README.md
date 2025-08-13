@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋 I am [Brenda](https://brenda-machado.github.io/)!
+  Hi 👋 I am Brenda!
 </h1>
 
 <p align="center">
