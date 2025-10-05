@@ -24,31 +24,22 @@
 > Love to learn through experimentating and contributing
 ```
 
-I'm an undergraduate researcher focused on **Adaptive Robotics** and **Evolution Strategies** at LISA (Systems and Applications Integration Laboratory). I love diving into new challenges, from autonomous systems to game development, and everything in between!
-
 ## Interests
 
-<table>
-<tr>
-<td width="50%">
 
-### Research & Experimentation
-- **Adaptive Robotics** & Evolution Strategies
-- **Behavior Cloning** & Imitation Learning
-- **Deep Learning** applications
-- **Evolutionary Computation** algorithms
+```
+> Research 
+  - Adaptive robotics, evolution strategies
+  - Behavior cloning, imitation learning
+  - Deep learning applications
+  - Evolutionary computation algorithms
 
-</td>
-<td width="50%">
+> Interests
+  - Game dev: art, simulation, character design
+  - Cybersecurity: concepts, practices, career interest
+  - Programming languages and useful tools
 
-### Exploration & Tools
-- **Game Development** & art & simulation & character design
-- **Cybersecurity** concepts & practices & looking for a career in the field
-- **Programming languages** & useful tools
-
-</td>
-</tr>
-</table>
+```
 
 ## 💻 Tech Stack
 
@@ -71,24 +62,19 @@ I'm an undergraduate researcher focused on **Adaptive Robotics** and **Evolution
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenda-Machado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
-## 🚀 Projects
+<details>
+<summary>🎓 <b>Academic Journey</b></summary>
 
-```python
-projects = {
-    "autonomous_driving": ["CARLA Simulator", "Behavior Cloning", "Deep Learning"],
-    "adaptive_robotics": ["Evolution Strategies", "Machine Learning", "LISA Lab"],
-    "community": ["PET Informática UFSC", "Event Organization", "Academic Support"]
-}
-```
+<br>
 
-## Academic Journey
-
-**Computer Science** UFSC *(2021 – 2026)*
+**Computer Science**, UFSC *(2021 – 2026)*
 
 **Research:**
 - **PIBIC Scholarship** - Imitation Learning & Autonomous Driving (2024-2025)
 - **Adaptive Robotics Project** - Evolution Strategies & Niching Techniques & Hyperparameters Optimization (2021-2026)
-- **PET Informática UFSC** - Teaching, Research & Extension (2021-2026)
+- **PET Informática UFSC** - Teaching, Research & Extension (2021-2026) 
+
+</details>
 
 <details>
 <summary>🏆 <b>Achievements & Highlights</b></summary>
