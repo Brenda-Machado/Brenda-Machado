@@ -1,106 +1,117 @@
-<h1 align="center">
-  Hi 👋 I am Brenda!
-</h1>
+<div align="center">
 
-<p align="center">
-  Undergraduate student in Computer Science at the Federal University of Santa Catarina (<a href="https://ufsc.br/" target="_blank" rel="noopener noreferrer">UFSC</a>), SC, Brazil. Currently researching Adaptive Robotics and Evolution Strategies at the Systems and Applications Integration Laboratory (LISA), as part of the Adaptive Robotics project.
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brenda-silva-machado-93bbab244/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn" 
-      style="height: 30px; width: 100px; object-fit: contain;"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://lattes.cnpq.br/3946140861830751" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge" 
-      alt="Lattes CV" 
-      style="height: 30px; width: 100px; object-fit: contain;"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://brenda-machado.github.io/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/Website-blue?style=for-the-badge" 
-      alt="Website CV" 
-      style="height: 30px; width: 100px; object-fit: contain;"
-    />
-  </a>
-</p>
+<img src="kirby.gif" width="200" alt="Kirby"/>
 
-<p align="center">
-  <a href="https://github.com/Brenda-Machado" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Brenda-Machado&show_icons=true&count_private=true&theme=transparent" width="350" alt="GitHub Stats" />
-  </a>
-</p>
+### Hi, I'm Brenda :)
+*Computer Science Student • Researcher • Tech Enthusiast*
 
-<p align="center">
-  💻 Learning & Developing with
-</p>
+*Federal University of Santa Catarina (UFSC) • Brazil*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" alt="ArchLinux" />
-</p>
+<a href="https://www.linkedin.com/in/brenda-silva-machado-93bbab244/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="http://lattes.cnpq.br/3946140861830751"><img src="https://img.shields.io/badge/Lattes-1C3C6E?style=for-the-badge&logo=academia&logoColor=white"/></a>
+<a href="https://brenda-machado.github.io/"><img src="https://img.shields.io/badge/Website-FF6B9D?style=for-the-badge&logo=web&logoColor=white" alt="Website"/></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenda-Machado&layout=compact&theme=transparent" width="300" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
-  <strong>Education & Experience</strong><br/><br/>
-  
-  - 📖 <strong>Computer Science</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;2021 – 2026<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<em>Federal University of Santa Catarina (UFSC)</em>, SC, Brazil<br/><br/>
-  
-  - 👨‍💻 <strong>PET Computação/Informática UFSC</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;2021 – 2026<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Programming, software tools, and projects<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Educational support for undergraduate studies<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Teamwork and event organization<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Research and scientific initiation<br/><br/>
-  
-  - 👨‍💻 <strong>Adaptive Robotics project</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;2021 – 2026<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Adaptive Robotics<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Evolution Strategies<br/><br/>
-  
-  - 👨‍💻 <strong>Behavior Cloning and Autonomous Cars</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;2024 – 2025<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Deep Learning<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;Behavior Cloning<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;CARLA simulator
-</p>
+---
+
+## 🌟 About Me
+
+```
+> Currently exploring the AI, robotics, cibersecurity and programming
+> Always curious about new technologies and tools
+> Love to learn through experimentating and contributing
+```
+
+I'm an undergraduate researcher focused on **Adaptive Robotics** and **Evolution Strategies** at LISA (Systems and Applications Integration Laboratory). I love diving into new challenges, from autonomous systems to game development, and everything in between!
+
+## Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### Research & Experimentation
+- **Adaptive Robotics** & Evolution Strategies
+- **Behavior Cloning** & Imitation Learning
+- **Deep Learning** applications
+- **Evolutionary Computation** algorithms
+
+</td>
+<td width="50%">
+
+### Exploration & Tools
+- **Game Development** & art & simulation & character design
+- **Cybersecurity** concepts & practices & looking for a career in the field
+- **Programming languages** & useful tools
+
+</td>
+</tr>
+</table>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brenda-Machado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenda-Machado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
+
+## 🚀 Projects
+
+```python
+projects = {
+    "autonomous_driving": ["CARLA Simulator", "Behavior Cloning", "Deep Learning"],
+    "adaptive_robotics": ["Evolution Strategies", "Machine Learning", "LISA Lab"],
+    "community": ["PET Informática UFSC", "Event Organization", "Academic Support"]
+}
+```
+
+## Academic Journey
+
+**Computer Science** UFSC *(2021 – 2026)*
+
+**Research:**
+- **PIBIC Scholarship** - Imitation Learning & Autonomous Driving (2024-2025)
+- **Adaptive Robotics Project** - Evolution Strategies & Niching Techniques & Hyperparameters Optimization (2021-2026)
+- **PET Informática UFSC** - Teaching, Research & Extension (2021-2026)
 
 <details>
-  <summary>📃 Resume</summary>
+<summary>🏆 <b>Achievements & Highlights</b></summary>
 
-  <ul>
-    <li>
-      Publication at the internationally renowned Congress of Genetic and Evolutionary Computation (GECCO). Article accepted at the GECCO'23 Student Workshop in Lisbon, Portugal.
-    </li>
-    <li>
-      Scholarship holder at PET Computação UFSC since 2021, supporting social media, promotional materials, academic events (e.g., WSCAD'22, SBBD'24), and organizing the SECCOM Academic Week (2022–2025).
-    </li>
-    <li>
-      Awarded a scholarship to attend GECCO'22 in Boston, USA.
-    </li>
-    <li>
-      PIBIC Scholarship holder (2024–2025) researching Imitation Learning, Behavior Cloning, and Deep Learning with autonomous driving simulators/environments like CARLA and CarRacingV0.
-    </li>
-    <li>
-      Interested in integrating technology and society, with a focus on Evolutionary Computation, Machine Learning, AI, Algorithm Development, Operating Systems, Game Development, Biotechnology, Design, and Systems Development.
-    </li>
-  </ul>
+<br>
+
+- **Published at GECCO'23** - Student Workshop in Lisbon, Portugal
+- **GECCO'22 Scholarship** - Attended conference in Boston, USA
+- **Event Organization** - SECCOM Academic Week (2022-2025), WSCAD'22, SBBD'24
+- **PET Informática** - Social media management, design, academic support, academic events, etc 
 
 </details>
+
+---
+
+<div align="center">
+
+```
+╔ ════════════════════════════════════════════ ╗
+║  💡 The birds were happily chirping today    ║
+║ They're too simple to understand the future  ║
+║    It's better to be like them, isn't it?    ║
+╚ ════════════════════════════════════════════ ╝
+```
+
+</div>
