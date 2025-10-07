@@ -24,6 +24,13 @@
 > Love to learn through experimentating and contributing
 ```
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brenda-Machado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenda-Machado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
+
 ## Interests
 
 
@@ -53,13 +60,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brenda-Machado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenda-Machado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <details>
@@ -101,3 +101,5 @@
 ```
 
 </div>
+
+[![An image of @brendamachado's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brendamachado)](https://holopin.io/@brendamachado)
